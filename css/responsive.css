@@ -17,326 +17,76 @@
 
 
 @media only screen and (max-width:767px) {
-  button.navbar-toggler {
-    height: 50px;
-}
-  .container-fluid.sec-menu-bgg {
-    padding: 0px 8px 0px 8px;
-}
-  .btn404secapp {
-    margin-top: 0px;
-    padding-left: 0px;
-    text-align: center;
-    padding-bottom: 20px;
-   }
-   .btn404secapp a {
-    padding: 5px 10px;
-    font-size: 10px;
-  }
-
-  .sec404sec{
-    margin-top:0px ;
-  }
-  .sec404sec img{
-    width: 100% !important ;
-    margin: auto !important;
-    padding-left: 25px;
-  }
-  button.navbar-toggler {
+  
+  .offcanvas-header {
     background: #000;
 }
-a.navbar-brand {
-  width: 36%;
-}
-.sechermaian {
-  margin-top: -66px;
-}
-.secborder p {
-  font-size: 11px;
-}
-.slidertxt {
-  padding-left: 10px;
-}
-  .slidertxt h3 {
-    font-size: 30px;
-}
-.sliderbgg {
-  padding: 50px 10px 10px 10px;
-  margin: 0;
-}
-.btnsecapp {
-  padding: 50px 0px;
-}
-.btnsecapp a {
-  font-size: 16px;
-}
-.secpadii {
-  padding: 30px 10px;
-}
-.secpadii h3 {
-  font-size: 30px;
-}
-.secpadii p {
-  font-size: 17px;
-}
-.secreedbg {
-  padding: 30px 10px;
-  margin: 0;
-}
-.secreedbg p {
-  font-size: 17px;
-}
-.secblubg {
-  padding: 30px 10px;
-  margin: 0;
-}
-.secadd{
-  padding-left: 0;
-}
-.secblubg h4 {
-  font-size: 30px;
-}
-.secblubg p {
-  font-size: 16px;
-}
-.secvrobord{
-  border: 1px solid #ca3428;
-  padding: 17px 10px 10px 10px;
-  margin-bottom: 30px;
-}
-.secvrobord img{
-  width: 35% !important;
-}
-.secvisi2 {
-  font-size: 16px !important;
-}
-.secasspad {
-  padding: 40px 10px;
-}
-.secasspad h3 {
-  font-size: 35px;
-}
-p.secimgserv img {
-  width: 60%;
-  margin: auto;
-}
-p.secimgserv {
-  text-align: center;
-}
-.secvisi {
-  font-size: 25px;
-}
-
-.mainroimg{
-  display: flex;
-  flex-direction: column;
-}
-.secimgmar {
-  padding-top: 0px;
-}
-.offcanvas-header {
+button.navbar-toggler {
   background: #000;
+  height: 55px;
 }
-.seclenglish{
-  display: none;
-}
-.headermenusec{
-  padding-bottom: 20px;
-  border: 0px;
-}.secFinancialbg h3 {
-  font-size: 30px;
-}
-.secFinancialbg {
-  padding: 158px 10px 60px 10px;
-}
-.secunlocp {
-  font-size: 20px;
-}
-.secunlocp2 {
-  font-size: 25px;
-}
-.secfootrbg {
-  padding: 30px 10px 10px 10px;
-}
-.desktopsec{
-  display: none;
-}
-.mobilesec{
-  display: block;
-}
-.secfootpad {
-  padding-top: 30px;
-}
-.secpfoot p a , .secpfoot2 p a{
-  font-size: 16px;
-}
-.seccopy {
-  font-size: 16px;
-  text-align: left;
-  padding-left: 15px;
-}
-.servesslider .owl-nav {
-display: none;
-}
-.servesslider .owl-dots {
+div#navbarOffcanvas {
   padding-top: 0px;
 }
-.servbg p  {
-  font-size: 22px;
+  .herobacksec {
+    padding: 177px 20px 0px 20px;
+  } 
+  .allheadertext h1 {
+    font-size: 24px;
+  }
+  .secherotext h1 {
+    font-size: 28px;
+  }
+  .headermenusec {
+    color: #000;
+    margin-left: 0px;
+    padding-bottom: 20px;
 }
-
-.servbg {
-  height: auto;
+.headmenu2 {
+  background:transparent;
+  border: 0px;
+  color: #000;
+  padding: 0;
+  margin-top: -18px;
+  text-transform: capitalize;
 }
-.sechermaian2 {
-  margin-top: -66px;
-  padding: 90px 10px 40px 10px;
-  width: 90%;
-}
-.sechermaian2 h3 {
-  font-size: 30px;
-}
-.secservpadd {
-  padding: 40px 10px;
-}
-.sevedeatal {
-  padding: 40px 10px;
-}
-.sevedeatal p{
-  font-size: 17px;
-}
-.Salientsecbg{
-  padding: 40px 10px;
-}
-.Salientsecbg h3{
-  font-size: 30px;
-}
-.hex p {
-  font-size: 13px;
-  font-weight: 500;
-}
-.hex-layer-4 , .hex-layer-3 {
-  display: flex;
-  flex-direction: row-reverse;
-  flex-wrap: wrap;
-}
-.hex {
-  height: 120px;
-  width: 120px;
-  padding: 29px 9px 25px 9px;
-  margin-bottom: 30px;
-}
-.seccortit{
-  font-size: 17px;
-  padding-top: 10px;
-  line-height: 26px;
-}
-.secreqtit{
-  font-size: 30px;
-  padding-top: 30px;
-}
-.sevedeta label {
-  font-size: 20px;
-}
-.sevedeta {
-  padding: 20px 10px 40px 10px;
+.secherotext p {
+  font-size: 16px;
   width: 100%;
 }
-.footertitt{
-  font-size: 30px;
-  padding-top: 20px;
+.seccountermar {
+  margin-top: 50px;
 }
-.seccontbtn {
-  padding: 10px 20px;
-  margin-left: -2px;
+.counter-box {
+  text-align: center;
 }
-.seccontbtn33 {
-  padding: 10px 20px;
-  margin-left: -2px;
+.secallpaddin {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
-a.dropdown-item{
-  font-family: 'Open Sans';
-    padding: 0px;
-    font-size: 18px;
-    font-weight: 500;
-    color: #000;
-    padding-bottom: 20px;
-    text-transform: uppercase;
+.textviewbtn2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
 }
-ul.dropdown-menu.show {
-  border: 0px;
+.twoslider .owl-nav {
+  margin-top: -510px;
+  margin-bottom: 470px;
 }
-.secehotitt {
-  font-size: 25px;
+.secpriseflaex {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 50px;
 }
-.secehopp {
-  font-size: 17px;
+.allheadertext22 h1 {
+  font-size: 28px;
 }
-.secstrabgg {
-  padding: 30px 0px 30px 0px;
-  margin: 0;
+.sidersec2 {
+  margin-left: 12px;
 }
-.serratitt h3 {
-  font-family: 'Roboto';
-  font-size: 40px;
-  padding-top: 20px;
+.secpadboot {
+  padding-bottom: 50px;
 }
-.serratitt p{
-  font-size: 17px;
-  padding-bottom: 0px;
-}
-.secpeoplebg {
-  padding: 40px 10px 0px 10px;
-}
-.secpopptext h3 {
-  font-size: 40px;
-}
-.secpopptext p {
-  font-size: 17px;
-  padding-right: 0px;
 
-}
-.infomem h3 {
-  font-size: 30px;
-  padding-top: 20px;
-}
-.infomem p {
-  font-size: 17px;
-}
-.secconttii {
-  font-size: 30px;
-  font-weight: 700;
-}
-.contsrctext h3 {
-  font-size: 20px;
-}
-.seccontpadp {
-  padding-right: 0px;
-}
-.contsrctext p a {
-  font-size: 16px;
-}
-.seccontpaaad{
-  padding-top: 30px;
-}
-.form-group.col-md-6 {
-  padding: 0;
-}
-.secretbg {
-  padding: 40px 10px;
-}
-.form-group {
-  padding: 0;
-}
-.secbasictit {
-  font-size: 30px;
-  padding-bottom: 10px;
-  margin-top: 10px;
-}
-.secseappy {
-  margin-top: 0px;
-  padding-bottom: 30px;
-  margin-bottom: 60px;
-  padding-top: 30px;
-}
 }
